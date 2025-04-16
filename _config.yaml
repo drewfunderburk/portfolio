@@ -3,5 +3,5 @@ name: Drew Funderburk
 description: Game Programmer and project lead with experience in VR development as well as desktop and mobile. I am experienced in both Unreal Engine and Unity, C++, C#, both Git and Perforce source control, AI, UI, and game systems. I am looking forward to expanding my knowledge and experience as an asset to your team.
 logo: /assets/img/headshot.png
 locale: "en"
-#show_downloads: true
+show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
