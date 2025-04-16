@@ -9,9 +9,9 @@ innovative game development teams.
 
 [Resume](DrewFunderburk_Resume.pdf)
 
+---
 ## PROFESSIONAL EXPERIENCE
 ---
-
 ### ACADEMY OF INTERACTIVE ENTERTAINMENT
 ##### Game Programming Instructor | 2023 - 2025
 - **Technical Instruction** : Programming fundamentals, **AI**, **UI**, **Unity**, **Unreal Engine**, physics, rendering
@@ -23,6 +23,7 @@ innovative game development teams.
 - **Commercial Success**: Developed "Flock of the Low God" (horror VR) and DLC for "The Atlas Mystery" (4.6 stars on Meta Quest Store)
 - **Client Solutions**: Created VR training applications for Louisiana Economic Development and University of New Orleans
 
+---
 ## KEY PROJECTS
 ---
 ### FLOCK OF THE LOW GOD | VR Horror Game
