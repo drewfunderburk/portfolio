@@ -1,27 +1,28 @@
-# Drew Funderburk
-## Game Programmer Portfolio
+# Game Programmer Portfolio
 
 AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN
 
----
-
-Experience **VR/AR Developer** and **Project Lead** with proven success in commercial and educational applications. Technical expertise in **AI systems**, **game optimization**, and **audio implementation** combined with **leadership experience** as both an instructor and developer. Seeking to contribute technical and creative problem-solving skills to innovative game development teams.
+Experienced **VR/AR Developer** and **Project Lead** with proven success in commercial and educational applications. 
+Technical expertise in **AI systems**, **game optimization**, and **audio implementation** combined with **leadership experience** 
+as both an instructor and developer. Seeking to contribute technical and creative problem-solving skills to 
+innovative game development teams.
 
 [Resume](DrewFunderburk_Resume.pdf)
 
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
+---
 
 ### ACADEMY OF INTERACTIVE ENTERTAINMENT | Game Programming Instructor | 2023 - 2025
 - **Technical Instruction** : Programming fundamentals, **AI**, **UI**, **Unity**, **Unreal Engine**, physics, rendering
 - **Project Leadership**: Guided student teams through agile workflow, maintained 92%+ class average
 
 ### TOP RIGHT CORNER | VR Developer | 2020-2024
-- **VR Development**: Systems, gameplay **AI**, **UI**, lighting, optimization for commercial and educational applications
-- **Commercial Success**: Developed "FLock of the Low God" (horror VR) and DLC for "The Atlas Mystery" (4.6 stars on Meta Quest Store)
+- **VR Development**: Systems, gameplay, **AI**, **UI**, lighting, optimization for commercial and educational applications
+- **Commercial Success**: Developed "Flock of the Low God" (horror VR) and DLC for "The Atlas Mystery" (4.6 stars on Meta Quest Store)
 - **Client Solutions**: Created VR training applications for Louisiana Economic Development and University of New Orleans
 
-# KEY PROJECTS
-
+## KEY PROJECTS
+---
 ### FLOCK OF THE LOW GOD | VR Horror Game
 *VR | AI | AUDIO | PLAYER INTERACTION | UNITY*
 
