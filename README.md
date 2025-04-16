@@ -29,6 +29,7 @@ innovative game development teams.
 ---
 ### FLOCK OF THE LOW GOD | VR Horror Game
 [![Flock of the Low God Header](assets/img/FlockOfTheLowGodHeader.jpg)](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/)
+
 *VR | AI | AUDIO | PLAYER INTERACTION | UNITY*
 
 - Developed complex **perception-based AI system** with behavior trees for organic enemy movement and behavior
