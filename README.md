@@ -1,7 +1,7 @@
 # Drew Funderburk
 ## Game Programmer Portfolio
 
-**AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN**
+AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN
 
 ---
 
