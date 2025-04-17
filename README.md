@@ -2,7 +2,8 @@
 #### Game Programmer
 
 [![Email](assets/img/Email.png)](mailto:drewfunderburkbusiness@gmail.com)
-[![LinkedIn](assets/img/LinkedIn.png)](https://www.linkedin.com/in/drew-funderburk/)
+[![LinkedIn](assets/img/LinkedIn.png)](https://www.linkedin.com/in/drew-funderburk)
+[![GitHub](assets/img/Github.png)](https://github.com/drewfunderburk)
 
 AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN
 
