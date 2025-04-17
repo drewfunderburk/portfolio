@@ -1,4 +1,4 @@
-# Portfolio
+# PORTFOLIO
 #### Game Programmer
 
 AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN
