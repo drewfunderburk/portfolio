@@ -13,12 +13,12 @@ innovative game development teams.
 ---
 ### ACADEMY OF INTERACTIVE ENTERTAINMENT
 #### Game Programming Instructor | 2023 - 2025
-- **Technical Instruction** : Programming fundamentals, **AI**, **UI**, **Unity**, **Unreal Engine**, physics, rendering
+- **Technical Instruction** : Programming fundamentals, game math, **AI**, **UI**, **Unity**, **Unreal Engine**, custom engines, physics, rendering 
 - **Project Leadership**: Guided student teams through agile workflow, maintained 92%+ class average
 
 ### TOP RIGHT CORNER
 #### VR Developer | 2020-2024
-- **VR Development**: Systems, gameplay, **AI**, **UI**, lighting, optimization for commercial and educational applications
+- **VR Development**: Systems, gameplay, **AI**, **UI**, lighting, optimization, audio for commercial and educational applications
 - **Commercial Success**: Developed "Flock of the Low God" (horror VR) and DLC for "The Atlas Mystery" (4.6 stars on Meta Quest Store)
 - **Client Solutions**: Created VR training applications for Louisiana Economic Development and University of New Orleans
 
@@ -34,7 +34,7 @@ innovative game development teams.
 - Programmed comprehensive player interaction systems and tutorial mechanics
 
 ### PROXIMO ONE | Multiplayer Sci-Fi FPS (In Development)
-*NETWORKING | MULTIPLAYER | CHARACTER SYSTEMS | AI | UI | UNREAL ENGINE*
+*NETWORKING | MULTIPLAYER | CHARACTER SYSTEMS | AI | UI | UNREAL*
 
 - Building client-server architecture with client prediction for smooth multiplayer sync
 - Designed weapons system to enable player build variety
