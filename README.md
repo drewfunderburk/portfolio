@@ -5,7 +5,7 @@
 [![LinkedIn](assets/img/LinkedIn.png)](https://www.linkedin.com/in/drew-funderburk)
 [![GitHub](assets/img/Github.png)](https://github.com/drewfunderburk)
 
-AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN
+AI | VR | UNREAL ENGINE 5 | UNITY | C++ | C# | SYSTEMS DESIGN
 
 Experienced **VR/AR Developer** and **Project Lead** with proven success in commercial and educational applications. 
 Technical expertise in **AI systems**, **game optimization**, and **gameplay systems** combined with **leadership experience** 
