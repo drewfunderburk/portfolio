@@ -13,7 +13,7 @@ innovative game development teams.
 ---
 ### ACADEMY OF INTERACTIVE ENTERTAINMENT
 #### Game Programming Instructor | 2023 - 2025
-- **Technical Instruction** : Programming fundamentals, game math, **AI**, **UI**, **Unity**, **Unreal Engine**, custom engines, physics, rendering 
+- **Technical Instruction** : Programming fundamentals, **AI**, **UI**, **Unity**, **Unreal Engine**, game math, custom engines, physics, rendering 
 - **Project Leadership**: Guided student teams through agile workflow, maintained 92%+ class average
 
 ### TOP RIGHT CORNER
