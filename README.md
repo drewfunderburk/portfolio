@@ -8,8 +8,6 @@ Technical expertise in **AI systems**, **game optimization**, and **gameplay sys
 as both an instructor and developer. Seeking to contribute technical and creative problem-solving skills to 
 innovative game development teams.
 
-[Resume](DrewFunderburk_Resume.pdf)
-
 ---
 ## PROFESSIONAL EXPERIENCE
 ---
