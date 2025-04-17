@@ -14,12 +14,12 @@ innovative game development teams.
 ## PROFESSIONAL EXPERIENCE
 ---
 ### ACADEMY OF INTERACTIVE ENTERTAINMENT
-##### Game Programming Instructor | 2023 - 2025
+#### Game Programming Instructor | 2023 - 2025
 - **Technical Instruction** : Programming fundamentals, **AI**, **UI**, **Unity**, **Unreal Engine**, physics, rendering
 - **Project Leadership**: Guided student teams through agile workflow, maintained 92%+ class average
 
 ### TOP RIGHT CORNER
-##### VR Developer | 2020-2024
+#### VR Developer | 2020-2024
 - **VR Development**: Systems, gameplay, **AI**, **UI**, lighting, optimization for commercial and educational applications
 - **Commercial Success**: Developed "Flock of the Low God" (horror VR) and DLC for "The Atlas Mystery" (4.6 stars on Meta Quest Store)
 - **Client Solutions**: Created VR training applications for Louisiana Economic Development and University of New Orleans
