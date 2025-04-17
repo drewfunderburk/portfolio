@@ -1,6 +1,9 @@
 # PORTFOLIO
 #### Game Programmer
 
+[![Email](assets/img/Email.png)](mailto:drewfunderburkbusiness@gmail.com)
+[![LinkedIn](assets/img/LinkedIn.png)](https://www.linkedin.com/in/drew-funderburk/)
+
 AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN
 
 Experienced **VR/AR Developer** and **Project Lead** with proven success in commercial and educational applications. 
