@@ -4,7 +4,7 @@
 AI | VR | UNREAL ENGINE | UNITY | C++ | C# | SYSTEMS DESIGN
 
 Experienced **VR/AR Developer** and **Project Lead** with proven success in commercial and educational applications. 
-Technical expertise in **AI systems**, **game optimization**, and **audio implementation** combined with **leadership experience** 
+Technical expertise in **AI systems**, **game optimization**, and **gameplay systems** combined with **leadership experience** 
 as both an instructor and developer. Seeking to contribute technical and creative problem-solving skills to 
 innovative game development teams.
 
@@ -28,9 +28,8 @@ innovative game development teams.
 ## KEY PROJECTS
 ---
 ### [FLOCK OF THE LOW GOD](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/) | VR Horror Game
-[![Flock of the Low God Header](assets/img/FlockOfTheLowGodHeader.jpg)](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/)
-
 *VR | AI | AUDIO | PLAYER INTERACTION | UNITY*
+[![Flock of the Low God Header](assets/img/FlockOfTheLowGodHeader.jpg)](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/)
 
 - Developed complex **perception-based AI system** with behavior trees for organic enemy movement and behavior
 - Implemented **immersive audio system** designed to maximize player tension
