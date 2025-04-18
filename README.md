@@ -37,7 +37,7 @@ innovative game development teams.
 - Implemented **immersive audio system** designed to maximize player tension
 - Programmed comprehensive player interaction systems and tutorial mechanics
 
-### PROXIMO ONE | Multiplayer Sci-Fi FPS (In Development)
+### [PROXIMO ONE](https://www.youtube.com/watch?v=3XEfjEYu_v0) | Multiplayer Sci-Fi FPS (In Development)
 *NETWORKING | MULTIPLAYER | CHARACTER SYSTEMS | AI | UI | UNREAL*
 [![ProximoOne Demo Reel](https://img.youtube.com/vi/3XEfjEYu_v0/0.jpg)](https://www.youtube.com/watch?v=3XEfjEYu_v0)
 
