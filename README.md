@@ -39,7 +39,6 @@ innovative game development teams.
 
 ### PROXIMO ONE | Multiplayer Sci-Fi FPS (In Development)
 *NETWORKING | MULTIPLAYER | CHARACTER SYSTEMS | AI | UI | UNREAL*
-<!-- https://youtu.be/3XEfjEYu_v0 -->
 [![ProximoOne Demo Reel](https://img.youtube.com/vi/3XEfjEYu_v0/0.jpg)](https://www.youtube.com/watch?v=3XEfjEYu_v0)
 
 - Building client-server architecture with client prediction for smooth multiplayer sync
