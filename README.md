@@ -29,6 +29,10 @@ innovative game development teams.
 ---
 ## KEY PROJECTS
 ---
+### [Code Snippets](https://github.com/drewfunderburk/PortfolioCodeExamples) | Examples
+*UNITY | UNREAL | C# | C++*
+Most of my projects are proprietary or otherwise private, so I've compiled a few snippets of my work together for easy viewing
+
 ### [FLOCK OF THE LOW GOD](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/) | VR Horror Game
 *VR | AI | AUDIO | PLAYER INTERACTION | UNITY*
 [![Flock of the Low God Header](assets/img/FlockOfTheLowGodHeader.jpg)](https://store.steampowered.com/app/2093550/Flock_of_the_Low_God/)
