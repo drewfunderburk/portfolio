@@ -46,7 +46,7 @@ innovative game development teams.
 - Programmed ledge-grabbing and sliding character movement abilities for enhanced player traversal
 
 ### EDUCATIONAL VR SIMULATIONS
-*VR | UI | INTERACTION DESIGN | UNITY*
+*VR | UI | INTERACTION DESIGN | UNREAL | UNITY*
 
 - **Solo-developed** multiple educational applications for university and government clients
 - Created immersive **simulations** for chemistry, metallurgy, and renewable energy education
