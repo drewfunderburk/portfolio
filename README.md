@@ -29,7 +29,7 @@ innovative game development teams.
 ---
 ## KEY PROJECTS
 ---
-### [Code Snippets](https://github.com/drewfunderburk/PortfolioCodeExamples) | Examples
+### [CODE SNIPPETS](https://github.com/drewfunderburk/PortfolioCodeExamples) | Examples
 *UNITY | UNREAL | C# | C++*
 
 Most of my projects are proprietary or otherwise private, so I've compiled a few snippets of my work together for easy viewing
