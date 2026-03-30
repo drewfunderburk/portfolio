@@ -19,7 +19,7 @@ innovative game development teams.
 #### Project Lead / Principal Programmer | 2025 - Current
 - **Project Leadership**: Working with clients to design games from from the ground up to fit their unique vision, emphasizing marketability, playability, and "finding the fun" in their ideas.
 - **Lead Developer**: Responsible for leading the project on every front, setting milestones and meeting planned targets.
-- **Lead Programmer**: Designed and implemented project architecture and mechanics, working closely with clients to shape gameplay features to the project's vision.
+- **Lead Programmer**: Designed and implemented project architecture and mechanics, working closely with clients and other developers to shape gameplay features to the project's vision.
 
 ### ACADEMY OF INTERACTIVE ENTERTAINMENT
 #### Game Programming Instructor | 2023 - 2025
