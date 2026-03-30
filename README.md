@@ -17,8 +17,6 @@ innovative game development teams.
 ---
 ### Freelance
 #### Project Lead / Principal Programmer | 2025 - Current
-> I am not at liberty to disclose these projects in their current state beyond my role in them
-
 - **Project Leadership**: Working with clients to design games from from the ground up to fit their unique vision, emphasizing marketability, playability, and "finding the fun" in their ideas.
 - **Lead Developer**: Responsible for leading the project on every front, setting milestones and meeting planned targets.
 - **Lead Programmer**: Designed and implemented project architecture and mechanics, working closely with clients to shape gameplay features to the project's vision.
